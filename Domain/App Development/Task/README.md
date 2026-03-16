@@ -22,6 +22,7 @@ Implement at least one extra feature of your choice:
   
 SUBMISSION GUIDELINES:
 You must:
+
   ● Document your progress  
   ● Push code regularly to GitHub  
   ● Use proper commit messages
